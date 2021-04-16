@@ -1,2 +1,5 @@
 /v_env_PTCC/
 .idea/
+/build/
+/dist/
+/ptCryptoClub.egg-info/
